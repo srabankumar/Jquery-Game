@@ -1,0 +1,29 @@
+{
+  "name": "air-escape",
+  "version": "1.0.0",
+  "description": "small game using HTML5,CANVAS,JQUERY",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srabankumar/Jquery-Game.git"
+  },
+  "keywords": [
+    "HTML5",
+    "JQUERY"
+  ],
+  "author": "sraban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srabankumar/Jquery-Game/issues"
+  },
+  "homepage": "https://github.com/srabankumar/Jquery-Game#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-refresh": "^1.1.0",
+    "gulp-uglyfly": "^1.4.2"
+  }
+}
